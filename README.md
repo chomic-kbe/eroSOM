@@ -2,7 +2,8 @@
 
 This repository contains data and supporting information to soil microbiome composition analyses connected to publication:
 
-"citace"
+Kaštovská, E., Choma, M., Čapek, P., Kaňa, J., Tahovská, K., Kopáček, J., 2022. Soil warming during winter period enhanced soil N and P availability and leaching in alpine grasslands: A transplant study. PLOS ONE 17, e0272143. doi:10.1371/journal.pone.0272143
+
 
 ## Content of files
 | File name | Description |
